@@ -26,3 +26,5 @@ Here you can find a list of repositories for all those projects.
 - ASA
   - Project 1 (Counting Tilings): [Gocho1234/CountingTilings-ASA](https://github.com/Gocho1234/CountingTilings-ASA)
   - Project 2 (Caracoland): [Gocho1234/Caracoland-ASA](https://github.com/Gocho1234/Caracoland-ASA)
+- IPM
+  - Project 1 (TimeBank): https://www.figma.com/file/Zzl9YseHCXmHRbvWV55YVF/TimeBank-App?node-id=0%3A1&t=ojtNA04e0lgBMUs2-1
