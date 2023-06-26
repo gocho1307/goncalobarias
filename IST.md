@@ -29,3 +29,9 @@ Here you can find a list of repositories for all those projects.
 - IPM
   - Project 1 (TimeBank): [Figma project](https://www.figma.com/file/Zzl9YseHCXmHRbvWV55YVF/TimeBank-App?node-id=0%3A1&t=ojtNA04e0lgBMUs2-1)
   - Project 2 (Target Accuracy): [goncalobarias/TargetAccuracy-IPM](https://github.com/goncalobarias/TargetAccuracy-IPM)
+- IA
+  - Project (Bimaru): [goncalobarias/Bimaru-IA](https://github.com/goncalobarias/Bimaru-IA)
+- BD
+  - Projects 1, 2 and 3 (Ecommerce): [goncalobarias/Ecommerce-BD](https://github.com/goncalobarias/Ecommerce-BD)
+- PE
+  - Project (Computational Exercises): [goncalobarias/ComputationalProject-PE](https://github.com/goncalobarias/ComputationalProject-PE)
