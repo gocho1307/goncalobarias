@@ -35,3 +35,22 @@ Here you can find a list of repositories for all those projects.
   - Projects 1, 2 and 3 (Ecommerce): [goncalobarias/Ecommerce-BD](https://github.com/goncalobarias/Ecommerce-BD)
 - PE
   - Project (Computational Exercises): [goncalobarias/ComputationalProject-PE](https://github.com/goncalobarias/ComputationalProject-PE)
+
+### Year 3
+
+- OC
+  - Labs: [goncalobarias/Labs-OC](https://github.com/goncalobarias/Labs-OC)
+- ML
+  - Homeworks: [goncalobarias/Homeworks-ML](https://github.com/goncalobarias/Homeworks-ML)
+- RC
+  - Project (Auction Manager): [goncalobarias/Auction-RC](https://github.com/goncalobarias/Auction-RC)
+- AMS
+  - Project (Super Shop): [iquelli/SuperShop-AMS](https://github.com/iquelli/SuperShop-AMS)
+- ES
+  - Project (Humana Ethica): [goncalobarias/HumanaEthica-ES](https://github.com/goncalobarias/HumanaEthica-ES)
+- SD
+  - Project (Tuple Spaces): [goncalobarias/TupleSpaces-SD](https://github.com/goncalobarias/TupleSpaces-SD)
+- CG
+  - Projects 1 and 2 (Crane + Carousel): [iquelli/Modelling-CG](https://github.com/iquelli/Modelling-CG)
+- Comp
+  - Project (TIL): [goncalobarias/TIL-Comp](https://github.com/goncalobarias/TIL-Comp)
